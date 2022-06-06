@@ -1,10 +1,11 @@
-![picture](https://klike.net/1345-kartinki-na-avatarku-50-foto.html "picture")
+![picture](https://klike.net/1345-kartinki-na-avatarku-50-foto.html "picture)
 # **YAUHENI URBANOVICH**
 # **My contact info**
 * ### **Adress**: Republic of Belarus, city Minsk, street Russiyanova 13
 * ### **Phone**: +375 (29) 235-67-84
 * ### **E-mail**: 2318421993q@gmail.com
 * ### **GitHub**: [evgenyurbanovich](https://github.com/EvgenyUrbanovich)
+* ### **Discord-nickname**: EvgenyU
 # **Summary**
 #### I was born in the city of Novogrudok. Date of Birth: 17.02.1999. Graduated from university at 21. I |work in my specialty, engineer. In the future I would like to become a developer. I am fond of sports at |the amateur level. I like active rest and communication.
 # **Skills**
