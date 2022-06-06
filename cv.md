@@ -3,7 +3,7 @@
  * ### **Adress**: Republic of Belarus, city Minsk, street Russiyanova 13
  * ### **Phone**: +375 (29) 235-67-84
  * ### **E-mail**: 2318421993q@gmail.com
- * ### **GitHub**: evgenyurbanovich
+ * ### **GitHub**: [evgenyurbanovich](https://github.com/EvgenyUrbanovich)
 # **Summary**
 #### I was born in the city of Novogrudok. Date of Birth: 17.02.1999. Graduated from university at 21. I work in my specialty, engineer. In the future I would like to become a developer. I am fond of sports at the amateur level. I like active rest and communication.
 # **Skills**
@@ -14,7 +14,11 @@
  * #### Windows OS, Linux ( Basic level)
  * #### Editors: VSCode
 # **Code examples**
-#### WILL BE ADDED
+```
+"use strict"
+let year = prompt ('What year did I start learning programming?', ' ');
+if (year == 2022) alert ('Right');
+```
 # **Education**
  * #### Minsk, BNTU (Belarusian National Technical University); instrument-making faculty, metrology, standartization and certification engineer
 # **Experience**
