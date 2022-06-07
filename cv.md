@@ -1,4 +1,4 @@
-![picture](https://cdn.discordapp.com/attachments/983482017192747071/983482067109183508/IMG_20220607_002330_242.jpg "picture")
+![picture](/myphoto.jpg)
 # **YAUHENI URBANOVICH**
 # **My contact info**
 * ### **Adress**: Republic of Belarus, city Minsk, street Russiyanova 13
