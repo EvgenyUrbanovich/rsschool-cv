@@ -1,4 +1,4 @@
-![picture](https://klike.net/1345-kartinki-na-avatarku-50-foto.html "picture")
+![picture](C:\Users\Полина\Desktop\myphoto.jpg "picture")
 # **YAUHENI URBANOVICH**
 # **My contact info**
 * ### **Adress**: Republic of Belarus, city Minsk, street Russiyanova 13
