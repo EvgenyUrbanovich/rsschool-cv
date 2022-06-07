@@ -1,4 +1,4 @@
-![picture](myphoto.jpg)
+![picture](/myph.jpg)
 # **YAUHENI URBANOVICH**
 # **My contact info**
 * ### **Adress**: Republic of Belarus, city Minsk, street Russiyanova 13
