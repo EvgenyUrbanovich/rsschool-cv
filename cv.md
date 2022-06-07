@@ -7,7 +7,7 @@
 * ### **GitHub**: [evgenyurbanovich](https://github.com/EvgenyUrbanovich)
 * ### **Discord-nickname**: EvgenyU
 # **Summary**
-#### I was born in the city of Novogrudok. Date of Birth: 17.02.1999. Graduated from university at 21. I |work in my specialty, engineer. In the future I would like to become a developer. I am fond of sports at |the amateur level. I like active rest and communication.
+#### I was born in the city of Novogrudok. Date of Birth: 17.02.1999. Graduated from university at 21. I work in my specialty, engineer. In the future I would like to become a developer. I am fond of sports at the amateur level. I like active rest and communication.
 # **Skills**
  * #### HTML ( Basic level)
  * #### CSS (Basic level)
