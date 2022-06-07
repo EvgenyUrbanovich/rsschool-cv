@@ -1,4 +1,4 @@
-![picture]( C:\Users\Полина\Desktop\myphoto1.jpg )
+![picture](/myphoto1.jpg)
 # **YAUHENI URBANOVICH**
 # **My contact info**
 * ### **Adress**: Republic of Belarus, city Minsk, street Russiyanova 13
