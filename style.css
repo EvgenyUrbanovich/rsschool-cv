@@ -1,0 +1,38 @@
+.paragraph {
+    width: 300px;
+    height: 100px;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid black;
+color:rgb(165, 24, 59);
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-weight: 900;
+font-style: italic;
+}
+.special {
+    color:chocolate;
+}
+
+.list {
+     background-color: cadetblue;
+     border: 1px solid black;
+     padding: 5px;
+}
+.listItem {
+    font-size: large;
+}
+.list.listItem {
+    color:darkkhaki;
+}
+.listItem:last-child{
+    color:blue;
+}
+.image{
+    width: 50%;
+}
+.coolImage {
+    width: 50px;
+    height: 50px;
+    background: url(https://avatars.githubusercontent.com/u/11501370?s=280&v=4) no-repeat center;
+    background-size: cover;
+}
